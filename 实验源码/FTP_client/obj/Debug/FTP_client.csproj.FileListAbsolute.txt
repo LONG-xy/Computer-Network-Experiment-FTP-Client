@@ -1,0 +1,9 @@
+C:\Users\xy\source\repos\FTP_client\bin\Debug\FTP_client.exe.config
+C:\Users\xy\source\repos\FTP_client\bin\Debug\FTP_client.exe
+C:\Users\xy\source\repos\FTP_client\bin\Debug\FTP_client.pdb
+C:\Users\xy\source\repos\FTP_client\obj\Debug\FTP_client.csprojAssemblyReference.cache
+C:\Users\xy\source\repos\FTP_client\obj\Debug\FTP_client.Properties.Resources.resources
+C:\Users\xy\source\repos\FTP_client\obj\Debug\FTP_client.csproj.GenerateResource.cache
+C:\Users\xy\source\repos\FTP_client\obj\Debug\FTP_client.exe
+C:\Users\xy\source\repos\FTP_client\obj\Debug\FTP_client.pdb
+C:\Users\xy\source\repos\FTP_client\obj\Debug\FTP_client.Mainform.resources
